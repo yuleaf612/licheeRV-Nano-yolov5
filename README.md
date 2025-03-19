@@ -1,1 +1,1 @@
-# licheeRV-Nano-TPU
+# licheeRV-Nano-yolov5
